@@ -1,0 +1,44 @@
+h1{
+    background-color: rgb(102, 241, 144);
+    color: red;
+}
+h4{
+    background-color:pink;
+  
+    padding: 0px;
+}h3{
+    
+    color: rgb(23, 197, 7);
+    padding: 15px;}
+body{
+    background-color: white;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+    color:lightgreen;}
+nav ul li a{
+        color: blue;
+        text-decoration: none;
+        
+    }
+    nav ul li a:hover{
+        text-decoration: underline;
+    
+    }
+form{
+    
+    font-size: large;
+    padding: px;
+    margin: 05;
+    
+}
+footer{
+    background-color: #e2873bda;
+    color: red;
+    text-align:center;
+    margin-top: 10;
+    padding: 2px ;
+}
+
